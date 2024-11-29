@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sightsafe-eye-detection",
+  "private_key_id": "3874598a713f43aee29be5375c68f2e9d4fd02bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZlRflym6BhtId\nUkosPlw9spuRrTmq3W6zCWMKef3GAo+AoAQ/pVauZv/jxOWsG9t6iDRyLeuTvbiS\n/+iamL9Qz0rQry2ALb5c4zTWOnF+PGq3rvn1tTxpYRJzD/NuLGFW/gARUzOyEDVn\npUtC3Jtsa9Be2t5UlV0STCbhlJqjlU9fnc32lqZlQ1qmbP6/HaUh3M0PJFeeJzVR\nvB1jv2BmEkrVsccFpc5omIXdEShayH+J4KM9lN4GsslVl3dOJ8/6UHOBTcu0y/7G\nQ83HUw1+Z8VNbOzVBMU2N2npNFGXkT+1zC4ib3SkbMZHVOxrnrnwxive8mmkyeiT\n7B/Z9u77AgMBAAECggEAK+HLb49bqSjpQHujtPegv9rBUGiY3FKLbHVksay311MV\n4RGkubddW5AvZJ8F2SfHJJfKyApl3CajzpXpMiDDWQdtpdfmu9a98VrrgZdI43ZI\n6aHTDNCQDgrDX0xkwqAVw6c3mUboAq4NL0mhe6sld4DpBfBrbbCwFCwinVVMuNfZ\ndq8ang6dhFDE3yaTnVg5+qrJeeivZTuHLm12SQ5pn5Ugns35gMfGXEL+bVAdo/4D\n9kXMS++EG/cHaOS4pZOSpbE+eJrGCsqlwsKeV/0/O+XK/e4Fxp1DAJeg+Hwg3sFm\nSWBXMhBn70gRAEF1RoDdZI3EEb1pAThp4PL2bL3tXQKBgQDs/VhndHLh8Pi75ipg\npprbK8tIj8hqqnLhiFD815umRBhPIrRTzAwngZt5RFgu4xpuuPybgjKDDRxESq0x\njA90U4bi9u/nmF9PBdKeMLvNYw9z4g32VuTZbCpRdOsdGj/EIzdMXfI1Zn+netdw\nmIREPDmd4Gup7Y08xGD18LHiHQKBgQDrCTbqtAwWmK3NJjTBImu8Aiij95WeJOQ+\n/HN4gg32nrGNOVOTJg1f5cVmiW40RvJFm7hGpS6fMzSz5V4Buyg04/bQvVHmNhL7\nPcbIK1jU9XNRzW6jMmJmfXJ3wOohCU6OqhKjfaDk8/9hDSbjOQulI8Spgbo0o7It\nLIsbqXHJ9wKBgCDLailezur/Opxd3G1lgLZlmArhgr1n+t/EylhCydI3SBnjVorm\nCKSK5eXhFEbgvG6oAKTQXocOEGRO5SqfFCBn0pmjzE0DI+U+jAfB/KsOUzwZAw+c\ntKx1sGF3SXXMhRhyOxvBQFwtY+rcL+Xv5RXAM8TqIlvweIP5NOWzuhntAoGABSOh\ncMZZEVFrU3YHZ0WyZ10AuH0cZ2XVG893UuY9GexkY3siabBGUJd8ln5gy4HVoFIE\nWH8aIt8CwwA76vvFqEpnxi6tkMQT7CxwoUXZXmazi9FbHvRmFGmfzCCKvggvEI2F\ndM+1aewv5FZeSE+iAo1iqnYstSPzLGux6vvsggcCgYEA2UeIXWNCOMKYrspI/WDm\ntXW/HPvVxcy4mUSiBAcF3uDAqZDXvzpuVP4t3Ki8cNe6ddFZ9U4eVvCJPiP+HHmW\nai9M3JrlW6LuJ7FXmPlyExgRaAeuMCO7yoTuTPkDdL/ursFX3R0NmTicOZR7NAAV\nhcA8WnBI5nVYf2UCYCTEa74=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6tm3j@sightsafe-eye-detection.iam.gserviceaccount.com",
+  "client_id": "111102994696780888971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6tm3j%40sightsafe-eye-detection.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
